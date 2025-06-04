@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+*.exe
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Log files
+*.log
+
+# Compiled source #
+*.out
+*.o
+
+# Python virtual environment
+*.egg-info/
+
+# Node.js
+node_modules/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.gitattributes
